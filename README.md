@@ -9,7 +9,7 @@ Some basic ML models through scikit-learn with my learning notes !
 > kNN  
 > Decision Tree  
 > Naive Bayes  
-> Random Forest
+> Random Forest  
 > SVM  
 
 
