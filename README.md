@@ -24,8 +24,10 @@ Some basic ML models through scikit-learn with my learning notes !
 > t-SNE  
 
 ## Ensemble
+> Boostrapping  
 > Bagging  
 > Boosting  
+> Averaging  
 > Stacking  
 
 ## Feature Engineering
